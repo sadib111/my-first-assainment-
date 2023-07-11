@@ -1,0 +1,7 @@
+/* nav related styles */    
+nav {
+    display: flex;
+}
+nav li {
+    list-style: none;
+}

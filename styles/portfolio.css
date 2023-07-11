@@ -1,5 +1,11 @@
 /* nav related styles */    
-nav {
+.text-primary{
+    color: #E55473;
+}
+.btn-primary{
+    background: #E55473;
+}
+nav > ul{
     display: flex;
 }
 nav li {

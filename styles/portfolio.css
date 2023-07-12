@@ -84,18 +84,28 @@ main{
 }
 /* main section styles */
 main{
-    max-width: 1140;    
+    max-width: 1140px;
     margin: 0 auto;
 }
-
-
 /* instagram section styles */
 .instagram{
     padding: 130px;
     border-radius: 10px;
-    border-color: #FFFFFF;
-    margin: 10px 0px;
+    background-color: #FFFFFF;
+    margin: 130px 0px;
 }
+.skill-container{
+    display: flex;
+    justify-content: space-around;
+}
+.skill{
+    text-align: center;
+}
+
+
+
+
+
 
 
 

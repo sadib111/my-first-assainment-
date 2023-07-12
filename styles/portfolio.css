@@ -55,7 +55,7 @@ main{
 
 /* Our Featured Flowers */
 .Flowers{
-    padding: 50pxpx;
+    padding: 50px;
 
 }
 /* skills related styles */
@@ -68,7 +68,17 @@ main{
     padding: 10px 10px 0px 10px;
     align-items:center;
     margin: 0 auto;
+    
+}
+.btn-primary{
+    margin: 2px 150px ;   
+    
 }
 
+
+
+
+
+    
 
 

@@ -48,6 +48,10 @@ nav a{
     width: 250px;
 }
 /* main section styles*/
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
 
 /* Our Featured Flowers */
 .Flowers{

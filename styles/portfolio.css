@@ -1,4 +1,9 @@
-/* nav related styles */    
+
+
+
+
+/* nav related styles */  
+
 .text-primary{
     color: #E55473;
 }
@@ -7,7 +12,25 @@
 }
 nav > ul{
     display: flex;
+    margin: 0px 200px;
+}
+.nav-tile {
+    color: #FFFFFF;
 }
 nav li {
     list-style: none;
+    margin-right: 20px;
+}
+nav a{
+    text-decoration:none;
+    color: #FFFFFF;
+}
+/*header related styles */
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    align-items: center;
+}
+.banner .profile-pic{
+    width: 250px;
 }

@@ -55,6 +55,20 @@ main{
 
 /* Our Featured Flowers */
 .Flowers{
-    padding: 100px;
+    padding: 50pxpx;
 
 }
+/* skills related styles */
+#Our-Featured-Flowers{
+    padding: 20px 100px;
+}
+.skills-container{
+    display: flex;
+    background-color: #fde7ed;
+    padding: 10px 10px 0px 10px;
+    align-items:center;
+    margin: 0 auto;
+}
+
+
+

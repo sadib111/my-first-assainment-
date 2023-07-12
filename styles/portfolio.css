@@ -8,8 +8,20 @@
     text-align: center;
     font-size: 25px;
 }
-
-
+.text-primary{
+    color: #E55473;
+}
+.section-title {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+}
+.section-description {
+    color: black;
+    text-align: center;
+    font-size: 20px;
+}
 
 
 /* nav related styles */  
@@ -70,7 +82,20 @@ main{
     margin: 0 auto;
     
 }
+/* main section styles */
+main{
+    max-width: 1140;    
+    margin: 0 auto;
+}
 
+
+/* instagram section styles */
+.instagram{
+    padding: 130px;
+    border-radius: 10px;
+    border-color: #FFFFFF;
+    margin: 10px 0px;
+}
 
 
 

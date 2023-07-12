@@ -133,6 +133,20 @@ footer{
     
 
 }
+/* skills related styles */
+.skills-container{
+    display: flex;
+    padding: 5px 5px 5px 5px;
+    
+}
+.skill-title{
+    padding: 30px;
+    border-radius: 10px;
+    
+}
+.text-block{
+    color: #FFFFFF;
+}
 
 
 
